@@ -1,0 +1,15 @@
+{
+    "name": "mac/import-variables-gitlab",
+    "require": {
+        "vlucas/phpdotenv": "^4.1"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "Gabriel Anhaia",
+            "email": "anhaia.gabriel@gmail.com"
+        }
+    ]
+}
