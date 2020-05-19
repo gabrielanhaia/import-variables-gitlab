@@ -1,0 +1,1 @@
+Simple script to import variables from a file (.env) to GitLab (API).
